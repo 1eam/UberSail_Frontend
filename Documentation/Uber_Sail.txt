@@ -1,0 +1,27 @@
+Introductiepage voor de nieuwe dienst: UberSail
+De daadwerkelijke site voor de dienst: https://www.ubereats.com/nl-NL/
+
+	voor mensen met een bootje
+	die rondvaarten bezorgen
+
+	kleine user story:
+	Je wil een familie-uitje organiseren en denkt: Hey, we doen een rondvaart,
+	Nou dan kan jij, als uberSail-gebruiker kijken of er een mensen met rondvaart-bootjes in de buurt beschikbaar zijn
+
+Voor deze nieuwe dienst wil Uber landingpage om hun nieuwe dienst te introduceren.
+en een deticated website netals https://www.ubereats.com/nl-NL/ (imitatie)
+
+
+
+IntroductiePagina bevat een "Try Now" knop met een link naar dec 
+
+
+
+
+
+
+
+
+
+(persoonlijk ... en het kan zomaar zijn dat ik van gedachten verander, denk ik dat een website niet zoveel atributen en nodig heeft om de boodschap over te brengen. Als je bijvoorbeeld kijkt naar javascript ...Gigantisch.
+Wel geloof ik in de technologieën die een site sneller en efficienter maken.

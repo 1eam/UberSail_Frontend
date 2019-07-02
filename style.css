@@ -1,0 +1,45 @@
+/*---------Doc----------*/
+html {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+}
+ *, *::before, *:after {
+     box-sizing: inherit
+ }
+ body
+
+
+/*----Button-style------*/
+
+
+
+/*--------Fonts---------*/
+.buttonsFonts {
+    font-family: "UberMove"
+    
+}
+
+@font-face {
+    font-family: "UberMove";
+    src: url("D:\Websites\Corporate landingpage Uber\Uber Assets\Fonts\UberMoveText-Regular.woff2") format('woff2'),
+    D:\Websites\Corporate landingpage Uber\Uber Assets\Fonts\transfonter\UberMoveText-Regular.woff;
+    font-family: "UberMove";
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "UberMove";
+    src: url("D:\Websites\Corporate landingpage Uber\Uber Assets\Fonts\UberMoveText-Medium.woff2") format('woff2');
+    font-family: "UberMove";
+    font-style: normal;
+    font-weight: medium;
+}
+/*--------Footer---------*/
+
+footer {
+    width: 100%;
+    background-color:  rgb(216, 214, 104);
+    padding: 60 px 60 px;
+}
