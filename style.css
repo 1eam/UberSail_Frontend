@@ -12,7 +12,43 @@ html {
 
 /*----Button-style------*/
 
-
+header {
+    height: 50px;
+    color: rgb(229, 255, 0)
+    background: #fff;
+    border: 1px solid #ccc;
+    position: fixed;
+    width: 100%;
+    top; 0px
+}
+.mid-content {
+    overflow: hidden;
+    z-index: 1;
+    height: 415px;
+    background-color: #FFF6E9;
+    position: relative;
+    display: block;
+}
+.title {
+    text-align: center;
+    margin-bottom: 4px;
+    font-family: UberMove-Medium;
+    line-height: 44px;
+    letter-spacing: 0.03em;
+    font-size: 36px;
+    color: #1F1F1F;
+    moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    margin: 0;
+    font-weight: normal;
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
 
 /*--------Fonts---------*/
 .buttonsFonts {
@@ -38,8 +74,8 @@ html {
 }
 /*--------Footer---------*/
 
-footer {
+.footer {
     width: 100%;
-    background-color:  rgb(216, 214, 104);
+    background-color:  rgb(49, 49, 49);
     padding: 60 px 60 px;
 }
